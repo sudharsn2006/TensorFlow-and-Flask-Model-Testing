@@ -1,4 +1,4 @@
-# Image Recognition System using CNN and Flask
+# Image Recognition System using TensorFlow-and-Flask-Model
 
 ## Project Description
 This project is an Image Recognition Web Application that uses a Convolutional Neural Network (CNN) to classify images into predefined object categories. Users can upload an image through a Flask web interface and receive real-time predictions.
